@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Events Portfolio
+description: Portfolio of select events I organized
+keywords: portfolio, events
+author: Jacek Jonca-Jasinski
+baseurl: "/events/" # the subpath of your site, e.g. /blog/
+url: "https://jonca.org" # the base hostname & protocol for your site
